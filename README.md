@@ -6,7 +6,11 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
+Installing config:
+
 ### `npm install`
+
+running server:
 
 ### `npm start`
 
